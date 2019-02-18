@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/repository/Samp/</url>
+            <url>http://localhost:8081/repository/Sample/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/repository/sample/</url>
+            <url>http://localhost:8081/repository/samp/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
